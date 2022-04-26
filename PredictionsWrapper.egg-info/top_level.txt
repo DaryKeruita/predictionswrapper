@@ -1,0 +1,2 @@
+predictionbets
+test_predictionbets
